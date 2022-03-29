@@ -15,5 +15,5 @@ Swagger config related files - for reference
 # Feature - Profiles configuration
 
 Profiles related files - for reference 
-   - application.yml,application-dev.yml,application-qa.yml,application-stage.yml,application-uat.yml
+   - application.yml
   
